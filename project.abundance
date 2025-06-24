@@ -2166,6 +2166,36 @@
             ],
             "fileTypeVersion": 1,
             "compiledBom": []
+        },
+        {
+            "atomType": "Export",
+            "name": "Export",
+            "x": 0.27547169811320754,
+            "y": 0.7267326732673267,
+            "uniqueID": "e35e0d79-e3ea-4000-98d5-e2e0184aa757",
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "2c0cd8c7-d55a-4d89-acb6-824164b02170"
+                },
+                {
+                    "name": "Resolution (dpi)",
+                    "ioValue": 96
+                },
+                {
+                    "name": "Part Name",
+                    "ioValue": "M4_NewArmCenterCap"
+                },
+                {
+                    "name": "File Type",
+                    "ioValue": "SVG"
+                }
+            ],
+            "description": "Export Atom, let's you choose a type of file to Export.",
+            "type": null,
+            "resolution": 96,
+            "importIndex": 0,
+            "partName": "M4_NewArmCenterCap"
         }
     ],
     "allConnectors": [
@@ -2175,6 +2205,13 @@
             "ap2Primary": false,
             "ap1ID": "2c0cd8c7-d55a-4d89-acb6-824164b02170",
             "ap2ID": "a0f1b7b6-8b21-416c-b8a6-ff14557ed543"
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": "2c0cd8c7-d55a-4d89-acb6-824164b02170",
+            "ap2ID": "e35e0d79-e3ea-4000-98d5-e2e0184aa757"
         }
     ],
     "unitsKey": "MM",
