@@ -2188,11 +2188,11 @@
                 },
                 {
                     "name": "File Type",
-                    "ioValue": "SVG"
+                    "ioValue": "STEP"
                 }
             ],
             "description": "Export Atom, let's you choose a type of file to Export.",
-            "type": null,
+            "type": "STEP",
             "resolution": 96,
             "importIndex": 0,
             "partName": "M4_NewArmCenterCap"
