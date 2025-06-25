@@ -160,7 +160,7 @@
                                 },
                                 {
                                     "name": "height",
-                                    "ioValue": 10
+                                    "ioValue": 8
                                 }
                             ],
                             "description": "Extrudes a 2D shape. Input can be negitive. "
@@ -1477,6 +1477,10 @@
                     "y": 0.6178217821782178,
                     "uniqueID": "8dede05a-0722-4a99-beeb-e41448aceb2e",
                     "ioValues": [
+                        {
+                            "name": "WallHeight",
+                            "ioValue": 3
+                        },
                         {
                             "name": "WallHeight",
                             "ioValue": 3
