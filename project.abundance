@@ -677,8 +677,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "PostHoles",
-                    "x": 0.13018867924528302,
-                    "y": 0.8435643564356436,
+                    "x": 0.1311320754716981,
+                    "y": 0.8316831683168318,
                     "uniqueID": "ace8e42b-a09a-422c-8e05-77f4282e2268",
                     "ioValues": [],
                     "description": "Molecules provide an organizational structure to contain atoms. Double click on a molecule to enter it. Use the up arrow in the upper right hand corner of the screen to go up one level.",
@@ -1165,7 +1165,7 @@
                             "ioValues": [
                                 {
                                     "name": "diameter",
-                                    "ioValue": 8.3
+                                    "ioValue": 8.5
                                 }
                             ],
                             "description": "Creates a new circle."
@@ -2174,8 +2174,8 @@
         {
             "atomType": "Export",
             "name": "Export",
-            "x": 0.27547169811320754,
-            "y": 0.7267326732673267,
+            "x": 0.27688679245283015,
+            "y": 0.7108910891089109,
             "uniqueID": "e35e0d79-e3ea-4000-98d5-e2e0184aa757",
             "ioValues": [
                 {
